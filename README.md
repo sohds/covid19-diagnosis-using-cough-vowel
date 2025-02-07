@@ -1,4 +1,4 @@
-# Autumn Annual Conference of IEIE, 2024 (대한전자공학회 추계학술대회)
+## Autumn Annual Conference of IEIE, 2024 (대한전자공학회 추계학술대회)
 
 <div align="center">
 <h3> 환자 메타데이터를 활용한 호흡 및 음성 소리의 대조 학습을 통한 SARS-CoV-2 양음성 및 중증도 진단 </h3>
@@ -11,7 +11,7 @@ on Respiratory and Voice Data with Patient Metadata </h4>
 <br>
 <sup>1</sup>Seoul Women's University&emsp;
 <sup>2</sup>Ewha Womans University&emsp;
-<sup>3</sup>Hongik University&emsp;<br>
+<sup>3</sup>Hongik University&emsp;
 <br>
 [[Paper]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036324) [[GitHub]](https://github.com/sohds/covid19-diagnosis-using-cough-vowel)
 [[Notion]](https://www.notion.so/deepdaiv/166cfba5895544e387ac56bc1b3241cc?pvs=4)<br>
@@ -21,6 +21,7 @@ on Respiratory and Voice Data with Patient Metadata </h4>
 
 <br>
 <img src="readme-files/architecture.png" width="800">
+<br>
 Proposed Model Architecture
 </div>
 
@@ -56,6 +57,7 @@ streamlit run streamlit/app_local.py
 - [Coswara: A respiratory sounds and symptoms dataset for remote screening of SARS-CoV-2 infection](https://www.nature.com/articles/s41597-023-02266-0)
 <div align="center">
 <img src="readme-files/mfcc.png" width="400">
+<br>
 MFCC of vowel 'O'
 </div>
 
@@ -63,8 +65,8 @@ MFCC of vowel 'O'
 
 ## 📝 Results
 <div align="center">
-<img src="readme-files/metric.png" width="700">
-<img src="readme-files/metric-2.png" width="700">
+<img src="readme-files/metric.png" width="500">
+<img src="readme-files/metric-2.png" width="500">
 </div>
 <br>
 
