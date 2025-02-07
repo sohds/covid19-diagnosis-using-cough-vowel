@@ -13,11 +13,11 @@ on Respiratory and Voice Data with Patient Metadata </h4>
 <sup>2</sup>Ewha Womans University&emsp;
 <sup>3</sup>Hongik University&emsp;
 <br>
-[[Paper]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036324) [[GitHub]](https://github.com/sohds/covid19-diagnosis-using-cough-vowel)
+[[Paper]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036324) [[Code]](https://github.com/sohds/covid19-diagnosis-using-cough-vowel)
 [[Notion]](https://www.notion.so/deepdaiv/166cfba5895544e387ac56bc1b3241cc?pvs=4)<br>
 
 당신의 목소리는 코로나를 알고 있다! <br>
-Contrastive Learning으로 호흡음과 음성 소리, 그리고 환자의 메타데이터를 활용해 COVID-19의 양음성 진단과 중증도 진단하기
+Contrastive Learning으로 호흡음과 음성 소리, 환자의 메타데이터를 활용해 COVID-19의 양음성 진단과 중증도 진단하기
 
 
 <br>
